@@ -1,0 +1,16 @@
+PrintLine("Something...")
+var int:x = 1
+var bool:isRunning = TRUE
+var char:test = "A"
+var string:a_string = "String."
+
+if (condition = condition) then:
+   PrintLine("An if.")
+elif (condition ! condition) then:
+   PrintLine("NOT")
+else then:
+   PrintLine("Else.")
+for i range:
+   // Something, something...
+while true:
+   // LOOP
